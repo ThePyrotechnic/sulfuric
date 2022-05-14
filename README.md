@@ -3,7 +3,7 @@
 
 ## Notes
 
-Thank you [@sudara](https://melatonin.dev) for your CMake template
+Thank you [@sudara](https://melatonin.dev) for your [CMake template](https://github.com/sudara/pamplejuce)
 
 ## Building
 
